@@ -18,7 +18,7 @@ public class MadLibsGame {
         String adjective3;
         Scanner sc=new Scanner(System.in);
         rawStory();
-        System.out.print("Enter an adjective(Description):");
+        System.out.print("Enter an adjective(Description):"); 
         adjective1=sc.nextLine();
         System.out.print("Enter an noun(animal or person)");
         noun1=sc.nextLine();
